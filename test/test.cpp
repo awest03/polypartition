@@ -29,7 +29,7 @@
 
 using namespace std;
 
-#include "polypartition.h"
+#include <polypartition/polypartition.h>
 
 #include "image.h"
 #include "imageio.h"
